@@ -42,11 +42,11 @@ Private community software for the people in your life: shared calendars, tasks,
 
 ### Also in progress
 
+- **[Arynwood Open Knowledge](https://github.com/Arynwood-Technology/arynwood-open-knowledge):** local-first educational research and inclusive learning, built on LearnOS.
 - **[Cutroom](https://github.com/Arynwood-Technology/Cutroom):** an AI-assisted video editor built on Kdenlive. An assistant inside the editor edits your timeline from plain language, using a local model, and asks before it changes anything. Early alpha, Linux.
 - **[MusicStudio](https://github.com/loreleinoble/MusicStudio):** local music production: voice conversion, generated instrumentation, stem separation and mastering on your own hardware.
 - **[Local AI benchmarks](https://github.com/Arynwood-Technology/local-ai-benchmarks):** measured Ollama generation speeds on real hardware, CPU-only and GPU, plus a script to test your own machine.
 - **[Arynwood chat window](https://github.com/Arynwood-Technology/arynwood-chat-window):** a website chat window that answers from the site's own public pages, with a local model you run.
-- **[Arynwood Open Knowledge](https://github.com/Arynwood-Technology/arynwood-open-knowledge):** local-first educational research and inclusive learning, built on LearnOS.
 - **[SDXL LoRA portability study](https://github.com/Arynwood-Technology/arynwood-lora-training):** how well LoRAs carry across SDXL checkpoints.
 
 ---
